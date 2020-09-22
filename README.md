@@ -1,5 +1,5 @@
 # 2020_MobileWeb
 
-Practice for 2020 autumn course in Wenzao DCAM
+Practice for Github
 
-這是一個練習測試用的 Repo 提供給文藻數位系行動網頁設計的課程使用
+上課的github練習。
